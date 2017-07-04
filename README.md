@@ -12,10 +12,13 @@ Simply include the script on your web page, then execute the object in one of th
     MorseJs.Play("cq cq de n5jlc k", 25);                                                        
     MorseJs.Play("cq cq de n5jlc k", 25, 500); 
 
+### Demo
+
+You can see and play with a live demo on CodePen (which, next to IFTTT and Stack Overflow, very well could be th best site on the Internet. The URL is [https://codepen.io/JoshuaCarroll/pen/QgrdzL](https://codepen.io/JoshuaCarroll/pen/QgrdzL).
+
 #### Contributing
 
 Contributions to this project can be made by using the program and providing feedback or by assisting in the programming and submitting pull requests. In either case, please read the [contributing page](https://github.com/JoshuaCarroll/MorseJs/blob/master/CONTRIBUTING.md) for instructions.
 
-----------
 
     
