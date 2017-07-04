@@ -18,7 +18,10 @@ You can see and play with a live demo on CodePen (which, next to IFTTT and Stack
 
 #### Contributing
 
-Contributions to this project can be made by using the program and providing feedback or by assisting in the programming and submitting pull requests. In either case, please read the [contributing page](https://github.com/JoshuaCarroll/MorseJs/blob/master/CONTRIBUTING.md) for instructions.
+Contributions to this project can be made by using it and providing feedback or by assisting in the programming. Pull requests are very welcome! Please try to follow these simple rules if applicable:
 
-
-    
+* Submit pull requests to the Development branch.
+* Please create a separate Pull Request for every unrelated change you make.
+* Make sure your patches are well tested.
+* Update the README if applicable.
+* Please do not change the version number.
