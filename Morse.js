@@ -1,3 +1,11 @@
+/*!
+ * MorseJs JavaScript Object
+ * https://github.com/JoshuaCarroll/MorseJs/
+ *
+ * Copyright Joshua Carroll and other contributors
+ * Released under the MIT license
+ */
+
 var MorseJs = {
     _wpm: 20,
     setWpm: function(wpm) {
