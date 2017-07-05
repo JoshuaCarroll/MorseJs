@@ -14,7 +14,7 @@ Simply include the script on your web page, then execute the object in one of th
 
 ### Demo
 
-You can see and play with a live demo on CodePen (which, next to IFTTT and Stack Overflow, very well could be th best site on the Internet. The URL is [https://codepen.io/JoshuaCarroll/pen/QgrdzL](https://codepen.io/JoshuaCarroll/pen/QgrdzL).
+You can see and play with a live demo on CodePen (which, next to IFTTT and Stack Overflow, very well could be the best site on the Internet. The URL is [https://codepen.io/JoshuaCarroll/pen/QgrdzL](https://codepen.io/JoshuaCarroll/pen/QgrdzL).
 
 #### Contributing
 
