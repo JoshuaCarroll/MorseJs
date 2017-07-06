@@ -97,6 +97,9 @@ var MorseJs = {
                 startTime += this._ditLength * 3; // Short gap (between letters)
             }
         }
+        
+        // Returns the length of the message in seconds.
+        return startTime - this._context.currentTime;
     },
     codes: {
         "A": ".-",
